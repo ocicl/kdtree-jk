@@ -1,0 +1,10 @@
+* kdtree-jk
+
+KDTREE-JK is a package for building efficent KD-Trees in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jetmonk/kdtree-jk.git   |
+| commit  | 6a0db6c  |
+| systems | kdtree-jk |
+|---------+-------------------------------------------|
+
